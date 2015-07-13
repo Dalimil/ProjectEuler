@@ -14,6 +14,7 @@ Original ProjectEuler problem statement:
 
 Modified HackerRank's ProjectEuler+ problem statement: 
 > How many Sundays fell on the first of the month between two dates? You get the two dates (they are in format D/M/Y) as your program's input. The year can be any number between 1900 and 10^16 = 10000000000000000.
+
 ***
 
 **DO NOT** copy and paste these solutions to solve the ProjectEuler challenges, as you will learn nothing by doing that. Although, I encourage you to look at my code if you get stuck and need some hints, or simply want to compare your solution with someone else.
