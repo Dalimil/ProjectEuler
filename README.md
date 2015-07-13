@@ -1,9 +1,9 @@
 # ProjectEuler+
 ##### HackerRank's ProjectEuler+ contest solutions
 
-[**ProjectEuler**](projecteuler.net) is a website dedicated to a series of computational problems intended to be solved with computer programs. It includes over 500 problems (July 2015).
+[**ProjectEuler**](https://projecteuler.net) is a website dedicated to a series of computational problems intended to be solved with computer programs. It includes over 500 problems (July 2015).
 
-[**HackerRank**](hackerrank.com) is a company that focuses on competitive programming challenges. 
+[**HackerRank**](https://hackerrank.com) is a company that focuses on competitive programming challenges. 
 
 People from HackerRank have modified the original ProjectEuler challenges and turned them into harder versions by increasing input size, adding hidden test cases, and setting time limit for your programs. They have redesigned the first 100 challenges so far (July 2015).
 ***
