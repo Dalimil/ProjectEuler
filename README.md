@@ -1,7 +1,8 @@
-# HackerRank - ProjectEuler+
-##### HackerRank's ProjectEuler+ contest solutions
+# HackerRank — ProjectEuler+
 
 ![HackerRank](https://github.com/Dalimil/ProjectEuler/blob/master/hackerrank.png)
+
+##### HackerRank's ProjectEuler+ contest solutions
 
 [**ProjectEuler**](https://projecteuler.net) is a website dedicated to a series of computational problems intended to be solved with computer programs. It includes over 500 problems (July 2015).
 
