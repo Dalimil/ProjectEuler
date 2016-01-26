@@ -44,7 +44,7 @@ int main(){
 	int t;cin >> t;
 	while(t--){
 		int n; cin >> n;
-		cout << v[n] <<endl;
+		cout << v[n]-1 <<endl;
 	}
 
 
