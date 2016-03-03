@@ -2,7 +2,7 @@
 
 ![HackerRank](https://github.com/Dalimil/ProjectEuler/blob/master/hackerrank.png)
 
-##### HackerRank's ProjectEuler+ contest solutions
+##### HackerRank's ProjectEuler+ contest solutions. My HackerRank profile can be found here: [HackerRank/Dalimil](https://www.hackerrank.com/dalimil)
 
 [**ProjectEuler**](https://projecteuler.net) is a website dedicated to a series of computational problems intended to be solved with computer programs. It includes over 500 problems (July 2015).
 
@@ -10,7 +10,7 @@
 
 People from HackerRank have modified the original ProjectEuler challenges and turned them into harder versions by increasing input size, adding hidden test cases, and setting time limit for your programs. They have redesigned the first 100 challenges so far (July 2015).
 ***
-An example might be Problem 19: Counting Sundays
+A good example might be Problem 19: Counting Sundays
 
 Original ProjectEuler problem statement: 
 > How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?
