@@ -1,6 +1,6 @@
-t = int(raw_input())
+t = int(input())
 M = 1000000000000
-s = 0;
+s = 0
 
 def expo(b, e):
 	ans = 1
@@ -17,7 +17,7 @@ def expo(b, e):
 memo = dict()
 
 for k in range(t):
-	a, b, c, d = [int(i) for i in raw_input().split()]
+	a, b, c, d = [int(i) for i in input().split()]
 	s = (s+d)%M;
 
 	res = None
@@ -26,8 +26,9 @@ for k in range(t):
 	else:
 		res = expo(b, c)
 		memo[(b,c)] = res
+		z=a*res
 
-	s = (s+(a*res)%M)%M;
+	s = (s+(z)%M)%M;
 
 print("%012d" % s)
 
